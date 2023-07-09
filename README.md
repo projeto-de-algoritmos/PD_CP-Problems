@@ -1,45 +1,40 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
 # NomedoProjeto
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: PD<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                        |
+| ---------- | ---------------------------- |
+| 19/0016663 | Lucas Pimentel Quintão       |
+| 20/0017519 | Eurico Menezes de Abreu Neto |
+
+## Sobre
+
+Para este projeto da disciplina optamos por fazer questões de Programação Competitiva de diferentes dificuldades, utilizando os sites CodeForces e LeetCode. As questões escolhidas foram:
+
+- 300 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### Accepteds
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+![image](./assets/LIS-AC.png)
 
-## Outros 
+## Instalação
+
+**Linguagem**: C++
+
+Para executar os códigos rode os seguintes comandos:
+
+<code>g++ nomeArquivo.cpp -std=c++11 -o exec</code>
+
+<code>./exec</code>
+
+## Uso
+
+Para testar os exercícios, recomendamos acessar a página do exercício que deseja executar e observar os padrões dos casos de testes disponíveis.
+
+## Outros
+
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
