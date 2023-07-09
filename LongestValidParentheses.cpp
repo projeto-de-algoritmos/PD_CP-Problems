@@ -40,6 +40,6 @@ public:
             return 0;
         }
 
-        return *std::max_element(maxLengthEndingAt.begin(), maxLengthEndingAt.end()); // retorna o maximo global
+        return *std::max_element(maxLengthEndingAt.begin(), maxLengthEndingAt.end()); // retorna o maximo geral
     }
 };
