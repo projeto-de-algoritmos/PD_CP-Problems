@@ -14,12 +14,15 @@
 Para este projeto da disciplina optamos por fazer questões de Programação Competitiva de diferentes dificuldades, utilizando os sites CodeForces e LeetCode. As questões escolhidas foram:
 
 - 300 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+- 32 - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
 
 ## Screenshots
 
 ### Accepteds
 
 ![image](./assets/LIS-AC.png)
+
+![image](./assets/LVP-AC.png)
 
 ## Instalação
 
