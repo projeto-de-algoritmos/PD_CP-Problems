@@ -16,6 +16,7 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 - 300 - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - 32 - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
 - 494 - [Target Sum](https://leetcode.com/problems/target-sum/description/)
+- 44 - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 
 ## Screenshots
 
@@ -26,6 +27,8 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 ![image](./assets/LVP-AC.png)
 
 ![image](./assets/TS-AC.png)
+
+![image](./assets/WM-AC.png)
 
 ## Instalação
 
