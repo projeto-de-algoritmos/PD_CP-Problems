@@ -18,6 +18,7 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 - 494 - [Target Sum](https://leetcode.com/problems/target-sum/description/)
 - 44 - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 - 416 - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+- 198 - [House Robber](https://leetcode.com/problems/house-robber/description/)
 
 ## Screenshots
 
@@ -32,6 +33,8 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 ![image](./assets/WM-AC.png)
 
 ![image](./assets/416-AC.png)
+
+![image](./assets/198-AC.png)
 
 ## Instalação
 
