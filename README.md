@@ -19,6 +19,7 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 - 44 - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
 - 416 - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 - 198 - [House Robber](https://leetcode.com/problems/house-robber/description/)
+- 85 - [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
 
 ## Screenshots
 
@@ -35,6 +36,8 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 ![image](./assets/416-AC.png)
 
 ![image](./assets/198-AC.png)
+
+![image](./assets/MR-AC.png)
 
 ## Instalação
 
