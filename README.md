@@ -17,6 +17,7 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 - 32 - [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
 - 494 - [Target Sum](https://leetcode.com/problems/target-sum/description/)
 - 44 - [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)
+- 416 - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
 
 ## Screenshots
 
@@ -29,6 +30,8 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 ![image](./assets/TS-AC.png)
 
 ![image](./assets/WM-AC.png)
+
+![image](./assets/416-AC.png)
 
 ## Instalação
 
