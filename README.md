@@ -56,6 +56,10 @@ Para executar os códigos rode os seguintes comandos:
 
 Para testar os exercícios, recomendamos acessar a página do exercício que deseja executar e observar os padrões dos casos de testes disponíveis.
 
-## Outros
+## Vídeo
 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+O vídeo sem compressão, com melhor áudio e vídeo se encontra na pasta assets.
+
+https://github.com/projeto-de-algoritmos/PD_CP-Problems/assets/64049043/a255853f-7279-44fe-8b14-dda2fc4106a3
+
+
